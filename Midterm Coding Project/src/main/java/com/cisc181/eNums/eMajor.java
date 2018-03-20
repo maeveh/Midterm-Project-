@@ -1,5 +1,5 @@
 package com.cisc181.eNums;
 
-public enum eMajor {
-BUSINESS, COMPSI
+public enum eMajor { 
+  CHEM, PHYSICS, NURSING, BUSINESS, COMPSI
 }
